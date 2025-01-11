@@ -23,21 +23,22 @@ Sou um explorador de código em ascensão, atualmente um hobbista (não trabalho
 **Outras paixões incluem:**
 >*[**✍️ Criação de Conteúdo**](https://geekverso.com) 🔹 [**🎥 Animes/Desenhos**](https://singelodux.blogspot.com) 🔹 [**🎮 Jogos**](https://singelodux.blogspot.com) 🔹 [**Etc 🌟**](https://singelodux.blogspot.com)*
 
-## 📊 Estatísticas do GitHub
-
 ---
+
+## 📊 Estatísticas do GitHub
 
 <div style="display: flex; align-items: center; justify-content: space-between;">
   <img src="https://github-readme-stats.vercel.app/api?username=SingeloDux&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=dark" style="height: 150px;" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SingeloDux&layout=compact&langs_count=6&theme=dark" style="height: 150px;" />
+  <!--
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SingeloDux&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SingeloDux&layout=compact&theme=dark)
+-->
 </div>
 
 ![](https://github-contributor-stats.vercel.app/api?username=SingeloDux&limit=5&theme=dark&combine_all_yearly_contributions=true&hide_title=true)
 
-<!--
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SingeloDux&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SingeloDux&layout=compact&theme=dark)
--->
+---
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=SingeloDux&theme=radical&no-frame=false&no-bg=true&margin-w=4)
