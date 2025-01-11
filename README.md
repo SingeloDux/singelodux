@@ -7,7 +7,7 @@
 <h1 align="left">Singelo Dux </h1>
 <div align="right">
   
-  ![Visitantes](https://img.shields.io/badge/Visitantes-1000-blue)
+  ![Visitantes](https://hits.sh/github.com/SingeloDux.svg?style=flat-square&label=Visitantes&color=blue&labelColor=black)
   ![Seguidores](https://img.shields.io/github/followers/SingeloDux?label=Seguidores&style=social)
   ![Repos](https://img.shields.io/github/repositories/SingeloDux?style=social)
   ![Estrelas](https://img.shields.io/github/stars/SingeloDux?style=social)
@@ -21,25 +21,34 @@ Sou um explorador de código em ascensão, atualmente um hobbista (não trabalho
 **Outras paixões incluem:**
 >*[**✍️ Criação de Conteúdo**](https://geekverso.com) 🔹 [**🎥 Animes/Desenhos**](https://singelodux.blogspot.com) 🔹 [**🎮 Jogos**](https://singelodux.blogspot.com) 🔹 **🎶 Música** 🔹 [**Etc 🌟**](https://singelodux.blogspot.com)*
 
+---
+
 ## 📊 Estatísticas do GitHub
+<div style="display: flex; align-items: center; justify-content: space-between;">
+  <img src="https://github-readme-stats.vercel.app/api?username=SingeloDux&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=dark" style="height: 150px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SingeloDux&layout=compact&langs_count=6&theme=dark" style="height: 150px;" />
+</div>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SingeloDux&layout=compact&theme=dark)
+![](https://github-contributor-stats.vercel.app/api?username=SingeloDux&limit=5&theme=dark&combine_all_yearly_contributions=true&hide_title=true)
 
+<!--
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SingeloDux&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SingeloDux&layout=compact&theme=dark)
+-->
+## TESTE
 
-## 📊 GitHub Stats:
-![](https://github-contributor-stats.vercel.app/api?username=SingeloDux&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<div style="display: flex; align-items: center; justify-content: space-between;">
+  <img src="https://github-readme-stats.vercel.app/api?username=SingeloDux&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=dark" style="height: 150px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SingeloDux&layout=compact&langs_count=6&theme=dark" style="height: 150px;" />
+</div>
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=SingeloDux&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
+### ✍️ Frase do Dia
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-### ✍️ counter
-[![Visitantes](https://visitcount.itsvg.in/api?id=SingeloDux&icon=0&color=0)](https://visitcount.itsvg.in)
-
-[![](https://visitcount.itsvg.in/api?id=SingeloDux&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ---
 <!--
