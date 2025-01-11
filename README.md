@@ -6,28 +6,42 @@
 </br></br></br></br>
 <h1 align="left">Singelo Dux </h1>
 <div align="right">
-Visitantes | Seguidores | Repos | Estrelas | Meu blog 
+  
+  ![Visitantes](https://img.shields.io/badge/Visitantes-1000-blue)
+  ![Seguidores](https://img.shields.io/github/followers/SingeloDux?label=Seguidores&style=social)
+  ![Repos](https://img.shields.io/github/repositories/SingeloDux?style=social)
+  ![Estrelas](https://img.shields.io/github/stars/SingeloDux?style=social)
+  ![Blog](https://img.shields.io/badge/Blog-SingeloDux-blue?style=flat&logo=blog)
+  
 </div>
 </br>
 Sou um explorador de código em ascensão, atualmente um hobbista (não trabalho com isso ainda). Neste lugar, compartilho minhas “poções” (códigos), faço experimentos e, claro, gero bugs para o mundo! Além disso, adoro escrever: código, scripts, guias, livros, artigos de blog, e conteúdos como este, que me levou mais de uma hora para finalizar.
 </br></br>
-Outras paixões incluem: [**Animes**](https://singelodux.blogspot.com) • [**Desenhos**](https://singelodux.blogspot.com) • [**Criação de Conteúdo**](https://geekverso.com) • **Música 🎶** • **Jogos 🎮** e muito mais.
+
+**Outras paixões incluem:**
+>*[**✍️ Criação de Conteúdo**](https://geekverso.com) 🔹 [**🎥 Animes/Desenhos**](https://singelodux.blogspot.com) 🔹 [**🎮 Jogos**](https://singelodux.blogspot.com) 🔹 **🎶 Música** 🔹 [**Etc 🌟**](https://singelodux.blogspot.com)*
 
 ## 📊 Estatísticas do GitHub
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SingeloDux&layout=compact&theme=dark)
 
-![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=SingeloDux&theme=radical)
-
-![GitHub Commits](https://github-readme-activity-graph.cyclic.app/graph?username=SingeloDux&theme=github)
-
-
-
-## 📊 Estatísticas do GitHub
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SingeloDux&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=dark)
 
+## 📊 GitHub Stats:
+![](https://github-contributor-stats.vercel.app/api?username=SingeloDux&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=SingeloDux&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+### ✍️ counter
+[![Visitantes](https://visitcount.itsvg.in/api?id=SingeloDux&icon=0&color=0)](https://visitcount.itsvg.in)
+
+[![](https://visitcount.itsvg.in/api?id=SingeloDux&icon=0&color=0)](https://visitcount.itsvg.in)
+
+---
 <!--
 **SingeloDux/singelodux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
