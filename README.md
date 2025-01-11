@@ -36,8 +36,6 @@ Sou um explorador de código em ascensão, atualmente um hobbista (não trabalho
 -->
 </div>
 
-![](https://github-contributor-stats.vercel.app/api?username=SingeloDux&limit=5&theme=dark&combine_all_yearly_contributions=true&hide_title=true)
-
 ---
 
 ## 🏆 GitHub Trophies
