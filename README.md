@@ -24,16 +24,9 @@ Sou um explorador de código em ascensão, um entusiasta ainda em formação. Aq
 
 ## 📊 Estatísticas do GitHub
 
-<div align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=SingeloDux&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=dark" style="height: 150px; display: inline-block; margin-right: 10px;" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SingeloDux&layout=compact&langs_count=6&theme=dark" style="height: 150px; display: inline-block;" />
-  
-</div>
-
-
-
 <div style="display: flex; align-items: center; justify-content: space-between;">
-  <img src="https://github-readme-stats.vercel.app/api?username=SingeloDux&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=dark" style="height: 150px;" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SingeloDux&layout=compact&langs_count=6&theme=dark" style="height: 150px;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SingeloDux&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=dark" style="height: 150px;" /> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SingeloDux&layout=compact&langs_count=6&theme=dark" style="height: 150px;" />
   <!--
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SingeloDux&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=dark)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SingeloDux&layout=compact&theme=dark)
@@ -52,7 +45,9 @@ Sou um explorador de código em ascensão, um entusiasta ainda em formação. Aq
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 </div>
+
 ---
+
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
