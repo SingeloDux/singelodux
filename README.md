@@ -48,6 +48,10 @@ Sou um explorador de código em ascensão, atualmente um hobbista (não trabalho
 
 ![Snake animation](https://github.com/SingeloDux/SingeloDux/blob/output/snake.svg)
 
+![GitHub Snake Animation](./dist/github-snake.svg)
+
+![GitHub Snake Dark Mode](./dist/github-snake-dark.svg)
+
 ---
 <!--
 **SingeloDux/singelodux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
