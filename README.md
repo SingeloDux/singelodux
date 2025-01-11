@@ -17,15 +17,18 @@
   
 </div>
 </br>
-Sou um explorador de código em ascensão, atualmente um hobbista (não trabalho com isso ainda). Neste lugar, compartilho minhas “poções” (códigos), faço experimentos e, claro, gero bugs para o mundo! Além disso, adoro escrever: código, scripts, guias, livros, artigos de blog, e conteúdos como este, que me levou mais de uma hora para finalizar.
+Sou um explorador de código em ascensão, um entusiasta ainda em formação. Aqui é onde compartilho minhas “poções” (códigos), faço experimentos e, claro, gero bugs para o mundo! Além de programar, adoro escrever — guias, scripts, artigos, e conteúdos como este, que me levou mais de uma hora para finalizar.
 </br></br>
-
-**Outras paixões incluem:**
->*[**✍️ Criação de Conteúdo**](https://geekverso.com) 🔹 [**🎥 Animes/Desenhos**](https://singelodux.blogspot.com) 🔹 [**🎮 Jogos**](https://singelodux.blogspot.com) 🔹 [**Etc 🌟**](https://singelodux.blogspot.com)*
 
 ---
 
 ## 📊 Estatísticas do GitHub
+
+<div style="display: flex; align-items: center; justify-content: space-between; flex-wrap: nowrap;">
+  <img src="https://github-readme-stats.vercel.app/api?username=SingeloDux&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=dark" style="height: 150px; max-width: 100%;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SingeloDux&layout=compact&langs_count=6&theme=dark" style="height: 150px; max-width: 100%;" />
+</div>
+
 
 <div style="display: flex; align-items: center; justify-content: space-between;">
   <img src="https://github-readme-stats.vercel.app/api?username=SingeloDux&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=dark" style="height: 150px;" />
@@ -38,31 +41,21 @@ Sou um explorador de código em ascensão, atualmente um hobbista (não trabalho
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 Troféus GitHub
 ![](https://github-profile-trophy.vercel.app/?username=SingeloDux&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
+<div align="right">
 
-### ⚡ Frase do Dia
+### ⚡ Frase Aleatória
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-
+</div>
 ---
 <!--
-**SingeloDux/singelodux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 
-Acesse WakaTime e registre-se. Instale o plugin WakaTime para seu editor de código (VSCode, Sublime Text, etc.). Após configurar o WakaTime, ele irá começar a monitorar o tempo de codificação. Você pode acessar seu perfil WakaTime e gerar gráficos semelhantes aos mostrados. ![WakaTime](https://wakatime.com/share/@SeuUsuario/xxxxxx.png)
-📊 this week i spent my time on:
-TypeScript   20 hrs 25 mins  ████████████████████▓░░░░   82.07 %
-Python       4 hrs 1 min     ████░░░░░░░░░░░░░░░░░░░░░   16.15 %
-JSON         11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.75 %
-Bash         8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 %
-HTML         4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
 -->
