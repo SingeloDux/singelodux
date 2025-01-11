@@ -12,7 +12,6 @@
   
   ![Visitantes](https://hits.sh/github.com/SingeloDux.svg?style=flat-square&label=Visitantes&color=blue&labelColor=black)
   ![Seguidores](https://img.shields.io/github/followers/SingeloDux?label=Seguidores&style=social)
-  ![Repos](https://img.shields.io/github/repositories/SingeloDux?style=social)
   ![Estrelas](https://img.shields.io/github/stars/SingeloDux?style=social)
   ![Blog](https://img.shields.io/badge/Blog-SingeloDux-blue?style=flat&logo=blog)
   
@@ -43,14 +42,11 @@ Sou um explorador de código em ascensão, atualmente um hobbista (não trabalho
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=SingeloDux&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
+---
+
 ### ⚡ Frase do Dia
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-![Snake animation](https://github.com/SingeloDux/SingeloDux/blob/output/snake.svg)
-
-![GitHub Snake Animation](./dist/github-snake.svg)
-
-![GitHub Snake Dark Mode](./dist/github-snake-dark.svg)
 
 ---
 <!--
