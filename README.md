@@ -24,10 +24,13 @@ Sou um explorador de código em ascensão, um entusiasta ainda em formação. Aq
 
 ## 📊 Estatísticas do GitHub
 
-<div style="display: flex; align-items: center; justify-content: space-between; flex-wrap: nowrap;">
-  <img src="https://github-readme-stats.vercel.app/api?username=SingeloDux&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=dark" style="height: 150px; max-width: 100%;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SingeloDux&layout=compact&langs_count=6&theme=dark" style="height: 150px; max-width: 100%;" />
+<div align="center">
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=SingeloDux&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=dark" style="height: 150px; display: inline-block; margin-right: 10px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SingeloDux&layout=compact&langs_count=6&theme=dark" style="height: 150px; display: inline-block;" />
+  
 </div>
+
 
 
 <div style="display: flex; align-items: center; justify-content: space-between;">
