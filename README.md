@@ -46,6 +46,7 @@ Sou um explorador de código em ascensão, atualmente um hobbista (não trabalho
 ### ⚡ Frase do Dia
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
+![Snake animation](https://github.com/SingeloDux/SingeloDux/blob/output/snake.svg)
 
 ---
 <!--
