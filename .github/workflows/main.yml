@@ -24,9 +24,11 @@ jobs:
             dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
 
       - name: Push Snake Animation to repository
+        env:
+          PAT: ${{ secrets.PAT }}
         run: |
           git config --local user.name "GitHub Action"
           git config --local user.email "action@github.com"
-          git add dist/*
+          git add -A
           git commit -m "Updated Snake Animation"
-          git push
+          git push https://x-access-token:${PAT}@github.com/${{ github.repository }}.git HEAD:main
