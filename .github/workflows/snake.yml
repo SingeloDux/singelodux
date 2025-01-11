@@ -3,12 +3,12 @@ name: Generate Snake Animation
 on:
   push:
     branches:
-      - main  # Substitua pelo nome do branch principal do seu repositório
+      - main  # Substitua pelo nome do branch principal
   workflow_dispatch:
 
 jobs:
   generate:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-22.04  # Fixando a versão para evitar futuros problemas
 
     steps:
       - name: Checkout the repository
@@ -17,19 +17,14 @@ jobs:
       - name: Generate Snake Animation
         uses: Platane/snk@v2
         with:
-          github_user_name: SingeloDux  # Substitua pelo seu nome de usuário no GitHub
+          github_user_name: SingeloDux  # Substitua pelo seu nome de usuário
           outputs: dist/snake.svg
-
-      - name: Upload Snake Animation
-        uses: actions/upload-artifact@v3
-        with:
-          name: snake
-          path: dist/snake.svg
 
       - name: Commit and push the snake animation
         run: |
           git config --local user.name "GitHub Action"
           git config --local user.email "action@github.com"
-          git add -A
+          git add dist/snake.svg
           git commit -m "Updated Snake Animation"
           git push
+          
