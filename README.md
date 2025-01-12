@@ -57,15 +57,23 @@
 
  </div>
 
+## Snake OLD
+
 ![snake gif](https://github.com/SingeloDux/singelodux/blob/output/github-contribution-grid-snake.svg)
  
 </div>
 
+## Snake Updated
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/<SingeloDux>/<singelodux>/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/<SingeloDux>/<singelodux>/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/<SingeloDux>/<singelodux>/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SingeloDux/singelodux/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SingeloDux/<singelodux/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/SingeloDux/singelodux/output/github-contribution-grid-snake.svg">
 </picture>
+
+## Snake v2
+
+![snake animation](https://github.com/SingeloDux/singeloDux/blob/output/github-contribution-grid-snake2.svg)
 
 ---
 
@@ -113,8 +121,3 @@
 ![Voltar ao topo](https://img.shields.io/badge/Voltar%20ao%20topo-181717?style=for-the-badge&logo=arrow-up&logoColor=white)
   
 </div>
-
-## SNAKE 1
-
-![snake gif](https://github.com/SingeloDux/singelodux/blob/output/github-contribution-grid-snake.svg)
-
