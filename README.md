@@ -4,7 +4,11 @@
 </div>
 <img align="right" width="200px" style="margin-top:-10px" src="https://i.imgur.com/QhN9tAc.png">
 </br></br></br></br>
-<h1 align="left">Singelo Dux </h1>
+<h1 align="left">
+  
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=ff91a4&size=20&center=false&vCenter=true&width=600&lines=Ola,+meu+nome+e+Singelo+Dux;Estudante+de+Informatica+e+entusiasta+em+programacao+e+ciber-seguranca;Bem+vindo+ao+meu+perfil!+:%29)](https://git.io/typing-svg)
+
+</h1>
 
 <div align="right">
 
@@ -37,8 +41,14 @@ Sou um explorador de código em ascensão, um entusiasta ainda em formação. Aq
 
 <div align="center">
   <a href="https://github.com/SingeloDux">
-  <img width="60%" height="180em" src="https://github-readme-stats.vercel.app/api?username=SingeloDux&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img width="60%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SingeloDux&theme=dracula&hide_langs_below=1&hide_langs_below=1" />
+  <img width="60%" height="180em" src="https://github-readme-stats.vercel.app/api?username=SingeloDux&show_icons=true&hide_title=true&count_private=true&theme=dark" /> 
+  <img width="40%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SingeloDux&layout=compact&langs_count=7&theme=dark" />
+</div>
+   
+<div align="center">
+  <a href="https://github.com/SingeloDux">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SingeloDux&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SingeloDux&theme=dracula&hide_langs_below=1&hide_langs_below=1" />
 </div>
 
 ![](https://streak-stats.demolab.com/?user=SingeloDux&count_private=true&theme=blue-green&title_color=00b3ff)
