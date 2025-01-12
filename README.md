@@ -1,5 +1,3 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=header"/>
-
  <div align="right">
   <a href="https://github.com/SingeloDux" style="font-size: 10px; text-decoration: none;">🇵🇹 Português</a> | 
   <a href="https://github.com/SingeloDux/readme_en" style="font-size: 10px; text-decoration: none;">🇬🇧 English</a>
@@ -8,7 +6,7 @@
 </br></br></br></br>
 <h1 align="left">
  
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=fff&size=30&center=false&vCenter=true&width=600&lines=Olá,+sou+Singelo+Dux!;Um+entusiasta+em+formação!;Explore+e+contribua+à+vontade!+👻+)](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=fff&size=30&center=false&vCenter=true&width=600&lines=Olá,+sou+Singelo+Dux!+👨‍💻;Um+entusiasta+em+formação!;Explore+e+contribua+à+vontade!+👻+)](https://git.io/typing-svg)
 </h1>
 
 <div align="right">
@@ -20,8 +18,9 @@
   ![Blog](https://img.shields.io/badge/Blog-SingeloDux-blue?style=flat&logo=blog)
   
 </div>
-<p> Sou um explorador de código em ascensão, um entusiasta em formação. Aqui, compartilho minhas "poções" (códigos), faço experimentos, e claro, crio bugs para o mundo! Além de programar, adoro escrever — guias, scripts, artigos, ou conteúdos como este, que me levou mais de uma hora para finalizar. </p>
-</br>
+<p> Sou um explorador de código em ascensão, um entusiasta em formação. Aqui, compartilho minhas "poções" (códigos), faço experimentos, e claro, crio bugs para o mundo! Além de programar, adoro escrever — guias, scripts, artigos, ou conteúdos como este, que me levou mais de uma hora para finalizar. Adoro games 🎮, animes 🎥, desenhos ✏️, mangás 📚, HQ's 📖 e sou muito bom com piadas ruins 👻. 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
+</p>
 
 ---
 
@@ -37,11 +36,11 @@
 
 <div align="center">
     <img width="48%" height="180em" 
-         src="https://github-readme-stats.vercel.app/api?username=SingeloDux&show_icons=true&hide_title=true&count_private=true&theme=dark" 
+         src="https://github-readme-stats.vercel.app/api?username=SingeloDux&show_icons=true&hide_title=true&count_private=true&theme=blue-green" 
          style="vertical-align: top;" />
     &nbsp;
     <img width="48%" height="180em" 
-         src="https://github-readme-stats.vercel.app/api/top-langs/?username=SingeloDux&layout=compact&langs_count=6&theme=dark" 
+         src="https://github-readme-stats.vercel.app/api/top-langs/?username=SingeloDux&layout=compact&langs_count=6&theme=blue-green" 
          style="vertical-align: top;" />
   </a>
 </div>
@@ -59,13 +58,14 @@
 ---
 
 ## 🏆 Troféus GitHub
-![](https://github-profile-trophy.vercel.app/?username=SingeloDux&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+![](https://github-profile-trophy.vercel.app/?username=SingeloDux&theme=dark&no-frame=false&no-bg=true&margin-w=4)
 
 ---
 
 <div align="right">
 
-  ### ⚡ Frase Aleatória
+  ## ⚡ Frase Aleatória
 
   ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
   
@@ -73,26 +73,31 @@
 
 ---
 
-<div align="left">
- 
 ## Conecte-se
 
-<a href="#" _target="blank"></a>  | <a href="#" _target="blank"></a>Gmail | <a href="#" _target="blank"></a> Linkedin | <a href="#" _target="blank"></a> MAL | <a href="#" _target="blank"></a> TV Time | <a href="#" _target="blank"></a> DeviantArt | <a href="#" _target="blank"></a> itch.io | <a href="#" _target="blank"></a> GitHub | <a href="#" _target="blank"></a> Instagram | <a href="#" _target="blank"></a> Facebook | <a href="#" _target="blank"></a> X/Twitter
+📫 Você pode invocar uma conexão comigo através dos meus encantamentos 🪄 (ou melhor, meus projetos) disponíveis nos [repositórios 📂](https://github.com/SingeloDux?tab=repositories). Ou então, através das seguintes plataformas mágicas:
 
-</div>
+<p align="left"> 
+  <a href="mailto:singelodux@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Gmail-ff0000?style=plastic&logo=gmail&logoColor=white" /> 
+  </a>
+  <a href="https://singelodux.blogspot.com/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=plastic&logo=linkedin&logoColor=white" /> 
+    <img src="https://img.shields.io/badge/-Itch.io-1d1d1d?style=plastic&logo=itch.io&logoColor=white" /> 
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github&logoColor=white" /> 
+    <img src="https://img.shields.io/badge/-MAL-00B5D6?style=plastic&logo=myanimelist&logoColor=white" />  
+    <img src="https://img.shields.io/badge/-TV%20Time-FF6B6B?style=plastic&logo=tvtime&logoColor=white" />  
+    <img src="https://img.shields.io/badge/-DeviantArt-04B404?style=plastic&logo=deviantart&logoColor=white" />  
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=plastic&logo=instagram&logoColor=white" />  
+    <img src="https://img.shields.io/badge/-Facebook-1877F2?style=plastic&logo=facebook&logoColor=white" />  
+    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=plastic&logo=twitter&logoColor=white" /> 
+  </a>
+</p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
 
 <div align="right">
-
-  ![Voltar ao topo](https://github.com/SingeloDux/SingeloDux#singelo-dux-?style=flat&logo=top)
+ 
+![Voltar ao topo](https://img.shields.io/badge/Voltar%20ao%20topo-181717?style=for-the-badge&logo=arrow-up&logoColor=white)
   
 </div>
-
-<!--
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-
--->
