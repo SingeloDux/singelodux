@@ -34,26 +34,17 @@
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <a href="https://github.com/SingeloDux">
-  <img width="49%" height="180px" src="https://github-readme-stats.vercel.app/api?username=SingeloDux&show_icons=true&hide_title=true&count_private=true&theme=dark" />    &nbsp;  
-   <img width="41%" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SingeloDux&layout=compact&langs_count=8&theme=dark" />
-</div>
-
-<div align="center">
-  <a href="https://github.com/SingeloDux">
-    <img width="49%" height="180px" 
-         src="https://github-readme-stats.vercel.app/api?username=SingeloDux&show_icons=true&hide_title=true&count_private=true&theme=dark" 
+    <img width="45%" height="180em" 
+         src="https://github-readme-stats.vercel.app/api?username=SingeloDux&show_icons=true&hide_title=false&count_private=true&theme=dark" 
          style="vertical-align: top;" />
     &nbsp;
-    <img width="49%" height="180px" 
-         src="https://github-readme-stats.vercel.app/api/top-langs/?username=SingeloDux&layout=compact&langs_count=8&theme=dark" 
+    <img width="45%" height="180em" 
+         src="https://github-readme-stats.vercel.app/api/top-langs/?username=SingeloDux&layout=compact&langs_count=6&theme=dark" 
          style="vertical-align: top;" />
   </a>
 </div>
-
-
----
-
+</br>
+<!-- Current Streak Stats -->
 <div align="center">
  <div style="display: flex; justify-content: center; width: 100%;">
    <img 
@@ -84,6 +75,7 @@
 ---
 
 <div align="left">
+ 
 ## Conecte-se
 
 <a href="#" _target="blank"></a>  | <a href="#" _target="blank"></a>Gmail | <a href="#" _target="blank"></a> Linkedin | <a href="#" _target="blank"></a> MAL | <a href="#" _target="blank"></a> TV Time | <a href="#" _target="blank"></a> DeviantArt | <a href="#" _target="blank"></a> itch.io | <a href="#" _target="blank"></a> GitHub | <a href="#" _target="blank"></a> Instagram | <a href="#" _target="blank"></a> Facebook | <a href="#" _target="blank"></a> X/Twitter
@@ -91,8 +83,6 @@
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
-
----
 
 <div align="right">
 
