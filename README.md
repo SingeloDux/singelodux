@@ -25,7 +25,9 @@
 
 ## 🛠️  Tecnologias e Ferramentas
 
-[![My Skills](https://skillicons.dev/icons?i=linux,windows,git,github,vscode,c,python,html,css,js,md,mysql,sqlite,twine,stackoverflow&perline=13)](#)
+[![My Skills](https://skillicons.dev/icons?i=linux,windows,git,github,stackoverflow,vscode,figma,c,py,php,mysql,sqlite,html,css,js,md,wordpress&theme=dark&perline=16)](#)
+
+<!-- Lista aqui: https://github.com/tandpfun/skill-icons?tab=readme-ov-file#icons-list -->
 
 ---
 
