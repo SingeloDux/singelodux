@@ -1,4 +1,4 @@
-<div align="right">
+ <div align="right">
   <a href="https://github.com/SingeloDux" style="font-size: 10px; text-decoration: none;">🇵🇹 Português</a> | 
   <a href="https://github.com/SingeloDux/readme_en" style="font-size: 10px; text-decoration: none;">🇬🇧 English</a>
 </div>
@@ -7,7 +7,8 @@
 <h1 align="left">Singelo Dux </h1>
 
 <div align="right">
-  
+
+  <!-- ![pv](https://pageview.vercel.app/?github_user=SingeloDux) -->
   ![Visitantes](https://hits.sh/github.com/SingeloDux.svg?style=flat-square&label=Visitantes&color=blue&labelColor=black)
   ![Seguidores](https://img.shields.io/github/followers/SingeloDux?label=Seguidores&style=social)
   ![Estrelas](https://img.shields.io/github/stars/SingeloDux?style=social)
@@ -17,6 +18,12 @@
 </br>
 Sou um explorador de código em ascensão, um entusiasta ainda em formação. Aqui é onde compartilho minhas “poções” (códigos), faço experimentos e, claro, gero bugs para o mundo! Além de programar, adoro escrever — guias, scripts, artigos, e conteúdos como este, que me levou mais de uma hora para finalizar.
 </br></br>
+
+---
+
+## 🛠️  Languages and Tools
+
+[![My Skills](https://skillicons.dev/icons?i=linux,windows,git,github,vscode,c,python,html,css,js,md,stackoverflow&perline=13)](#)
 
 ---
 
@@ -31,7 +38,7 @@ Sou um explorador de código em ascensão, um entusiasta ainda em formação. Aq
 <div align="center">
   <a href="https://github.com/SingeloDux">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SingeloDux&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SingeloDux&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SingeloDux&theme=dracula&hide_langs_below=1" />
 </div>
 
 ![](https://streak-stats.demolab.com/?user=SingeloDux&count_private=true&theme=blue-green&title_color=00b3ff)
@@ -60,6 +67,14 @@ Sou um explorador de código em ascensão, um entusiasta ainda em formação. Aq
 ## Conecte-se
 
 Blog | Gmail | Linkedin | MAL | TV Time | DeviantArt | itch.io | GitHub | Instagram | Facebook | X/Twitter
+
+---
+
+<div align="right">
+
+  ![Voltar ao topo](https://github.com/SingeloDux/SingeloDux#singelo-dux-?style=flat&logo=top)
+  
+</div>
 
 <!--
 - 🔭 I’m currently working on ...
