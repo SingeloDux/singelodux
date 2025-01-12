@@ -34,11 +34,11 @@
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-    <img width="45%" height="180em" 
+    <img width="48%" height="180em" 
          src="https://github-readme-stats.vercel.app/api?username=SingeloDux&show_icons=true&hide_title=false&count_private=true&theme=dark" 
          style="vertical-align: top;" />
     &nbsp;
-    <img width="45%" height="180em" 
+    <img width="48%" height="180em" 
          src="https://github-readme-stats.vercel.app/api/top-langs/?username=SingeloDux&layout=compact&langs_count=6&theme=dark" 
          style="vertical-align: top;" />
   </a>
