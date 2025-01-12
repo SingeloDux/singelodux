@@ -45,6 +45,7 @@
   </a>
 </div>
 </br>
+
 <!-- Current Streak Stats -->
 <div align="center">
  <div style="display: flex; justify-content: center; width: 90%;">
@@ -112,3 +113,5 @@
 </picture>
 
 </div>
+
+![snake gif](https://github.com/SingeloDux/singelodux/blob/output/github-contribution-grid-snake.svg)
