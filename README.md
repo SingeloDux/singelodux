@@ -6,8 +6,6 @@
 </br></br></br></br>
 <h1 align="left">Singelo Dux </h1>
 
----
-
 <div align="right">
   
   ![Visitantes](https://hits.sh/github.com/SingeloDux.svg?style=flat-square&label=Visitantes&color=blue&labelColor=black)
@@ -25,8 +23,15 @@ Sou um explorador de código em ascensão, um entusiasta ainda em formação. Aq
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
+  <a href="https://github.com/SingeloDux">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SingeloDux&show_icons=true&hide_title=true&count_private=true&theme=dark" /> 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SingeloDux&layout=compact&langs_count=6&theme=dark" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SingeloDux&layout=compact&langs_count=7&theme=dark" />
+</div>
+
+<div align="center">
+  <a href="https://github.com/SingeloDux">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SingeloDux&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SingeloDux&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 ![](https://streak-stats.demolab.com/?user=SingeloDux&count_private=true&theme=blue-green&title_color=00b3ff)
@@ -38,15 +43,23 @@ Sou um explorador de código em ascensão, um entusiasta ainda em formação. Aq
 
 ---
 
-### ⚡ Frase Aleatória
 <div align="right">
-  
+
+  ### ⚡ Frase Aleatória
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=header"/>
+
   ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
+
 </div>
-<p align="center">
-     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</p>
+
 ---
+
+## Conecte-se
+
+Blog | Gmail | Linkedin | MAL | TV Time | DeviantArt | itch.io | GitHub | Instagram | Facebook | X/Twitter
 
 <!--
 - 🔭 I’m currently working on ...
