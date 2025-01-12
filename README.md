@@ -56,6 +56,9 @@
      style="max-width: 90%; height: auto; border-radius: 5px;" />
 
  </div>
+
+![snake gif](https://github.com/SingeloDux/singelodux/blob/output/github-contribution-grid-snake.svg)
+ 
 </div>
 
 ---
@@ -104,14 +107,8 @@
 ![Voltar ao topo](https://img.shields.io/badge/Voltar%20ao%20topo-181717?style=for-the-badge&logo=arrow-up&logoColor=white)
   
 </div>
-<div style="text-align: center;">
- 
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SingeloDux/singelodux/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SingeloDux/singelodux/output/github-contribution-grid-snake.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/SingeloDux/singelodux/output/github-contribution-grid-snake.gif">
-</picture>
 
-</div>
+## SNAKE 1
 
 ![snake gif](https://github.com/SingeloDux/singelodux/blob/output/github-contribution-grid-snake.svg)
+
