@@ -5,9 +5,8 @@
 <img align="right" width="200px" style="margin-top:-10px" src="https://i.imgur.com/QhN9tAc.png">
 </br></br></br></br>
 <h1 align="left">
-  
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=ff91a4&size=20&center=false&vCenter=true&width=600&lines=Ola,+meu+nome+e+Singelo+Dux;Estudante+de+Informatica+e+entusiasta+em+programacao+e+ciber-seguranca;Bem+vindo+ao+meu+perfil!+:%29)](https://git.io/typing-svg)
-
+ 
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=fff&size=30&center=false&vCenter=true&width=600&lines=Olá,+sou+Singelo+Dux!;Um+entusiasta+em+formação!;Explore+e+contribua+à+vontade!+👻+)](https://git.io/typing-svg)
 </h1>
 
 <div align="right">
@@ -19,15 +18,14 @@
   ![Blog](https://img.shields.io/badge/Blog-SingeloDux-blue?style=flat&logo=blog)
   
 </div>
+<p> Sou um explorador de código em ascensão, um entusiasta em formação. Aqui, compartilho minhas "poções" (códigos), faço experimentos, e claro, crio bugs para o mundo! Além de programar, adoro escrever — guias, scripts, artigos, ou conteúdos como este, que me levou mais de uma hora para finalizar. </p>
 </br>
-Sou um explorador de código em ascensão, um entusiasta ainda em formação. Aqui é onde compartilho minhas “poções” (códigos), faço experimentos e, claro, gero bugs para o mundo! Além de programar, adoro escrever — guias, scripts, artigos, e conteúdos como este, que me levou mais de uma hora para finalizar.
-</br></br>
 
 ---
 
-## 🛠️  Languages and Tools
+## 🛠️  Tecnologias e Ferramentas
 
-[![My Skills](https://skillicons.dev/icons?i=linux,windows,git,github,vscode,c,python,html,css,js,md,mysql,sqlite,stackoverflow&perline=13)](#)
+[![My Skills](https://skillicons.dev/icons?i=linux,windows,git,github,vscode,c,python,html,css,js,md,mysql,sqlite,twine,stackoverflow&perline=13)](#)
 
 ---
 
@@ -35,18 +33,19 @@ Sou um explorador de código em ascensão, um entusiasta ainda em formação. Aq
 
 <div align="center">
   <a href="https://github.com/SingeloDux">
-  <img width="49%" height="180em" src="https://github-readme-stats.vercel.app/api?username=SingeloDux&show_icons=true&hide_title=true&count_private=true&theme=dark" /> 
-  <img width="41%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SingeloDux&layout=compact&langs_count=7&theme=dark" />
+  <img width="49%" height="180px" src="https://github-readme-stats.vercel.app/api?username=SingeloDux&show_icons=true&hide_title=true&count_private=true&theme=dark" />    &nbsp;  <img width="41%" height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SingeloDux&layout=compact&langs_count=8&theme=dark" />
 </div>
 
 ---
 
 <div align="center">
 
- [![GitHub Streak](https://streak-stats.demolab.com?user=SingeloDux&theme=dark&border_radius=5&locale=pt_BR&card_width=500)](https://git.io/streak-stats)
+ [![GitHub Streak](https://streak-stats.demolab.com?user=SingeloDux&theme=dark&border_radius=5&locale=pt_BR&card_width=800)](https://git.io/streak-stats)
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=SingeloDux&theme=dark&border_radius=5&locale=pt_BR&card_width=500" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=SingeloDux&theme=dark&border_radius=5&locale=pt_BR&card_width=800" alt="GitHub Streak" /></a>
 
+ [![](https://streak-stats.demolab.com?user=SingeloDux&theme=dark&border_radius=5&locale=pt_BR&card_width=800)](https://git.io/streak-stats)
+ 
 </div>
 
 ---
