@@ -26,7 +26,13 @@ jobs:
             dist/github-contribution-grid-snake.svg
           config: |
             {
-              "color_scheme": "dark" 
+              "color_scheme": "dark",  # Define que o esquema de cores será 'dark'
+              "custom_colors": {
+                "background": "#333333",  # Fundo cinza escuro
+                "snake": "#1E90FF",  # Cobra azul (cor hexadecimal de um azul mais claro)
+                "grid": "#4B4B4B",  # Cor dos quadradinhos de fundo (cinza escuro)
+                "head": "#1E90FF"  # Cor da cabeça da cobra (azul)
+              }
             }
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # Autenticação com o token
