@@ -1,3 +1,5 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=header"/>
+
  <div align="right">
   <a href="https://github.com/SingeloDux" style="font-size: 10px; text-decoration: none;">🇵🇹 Português</a> | 
   <a href="https://github.com/SingeloDux/readme_en" style="font-size: 10px; text-decoration: none;">🇬🇧 English</a>
@@ -35,7 +37,7 @@
 
 <div align="center">
     <img width="48%" height="180em" 
-         src="https://github-readme-stats.vercel.app/api?username=SingeloDux&show_icons=true&hide_title=false&count_private=true&theme=dark" 
+         src="https://github-readme-stats.vercel.app/api?username=SingeloDux&show_icons=true&hide_title=true&count_private=true&theme=dark" 
          style="vertical-align: top;" />
     &nbsp;
     <img width="48%" height="180em" 
@@ -65,11 +67,8 @@
 
   ### ⚡ Frase Aleatória
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=header"/>
-
   ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
   
-
 </div>
 
 ---
