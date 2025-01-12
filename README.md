@@ -24,14 +24,12 @@ Sou um explorador de código em ascensão, um entusiasta ainda em formação. Aq
 
 ## 📊 Estatísticas do GitHub
 
-<div style="display: flex; align-items: center; justify-content: space-between;">
-  <img src="https://github-readme-stats.vercel.app/api?username=SingeloDux&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=dark" style="height: 150px;" /> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SingeloDux&layout=compact&langs_count=6&theme=dark" style="height: 150px;" />
-  <!--
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SingeloDux&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SingeloDux&layout=compact&theme=dark)
--->
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SingeloDux&show_icons=true&hide_title=true&count_private=true&theme=dark" /> 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SingeloDux&layout=compact&langs_count=6&theme=dark" />
 </div>
+
+![](https://streak-stats.demolab.com/?user=SingeloDux&count_private=true&theme=blue-green&title_color=00b3ff)
 
 ---
 
@@ -39,13 +37,15 @@ Sou um explorador de código em ascensão, um entusiasta ainda em formação. Aq
 ![](https://github-profile-trophy.vercel.app/?username=SingeloDux&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
-<div align="right">
 
 ### ⚡ Frase Aleatória
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
+<div align="right">
+  
+  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 </div>
-
+<p align="center">
+     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
 ---
 
 <!--
