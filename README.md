@@ -39,9 +39,13 @@ Sou um explorador de código em ascensão, um entusiasta ainda em formação. Aq
   <img width="41%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SingeloDux&layout=compact&langs_count=7&theme=dark" />
 </div>
 
+---
+
 <div align="center">
 
  [![GitHub Streak](https://streak-stats.demolab.com?user=SingeloDux&theme=dark&border_radius=5&locale=pt_BR&card_width=500)](https://git.io/streak-stats)
+
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=SingeloDux&theme=dark&border_radius=5&locale=pt_BR&card_width=500" alt="GitHub Streak" /></a>
 
 </div>
 
