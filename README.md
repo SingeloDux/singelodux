@@ -46,11 +46,11 @@
 </br>
 <!-- Current Streak Stats -->
 <div align="center">
- <div style="display: flex; justify-content: center; width: 100%;">
+ <div style="display: flex; justify-content: center; width: 90%;">
    <img 
      src="https://streak-stats.demolab.com?user=SingeloDux&theme=dark&border_radius=5&locale=pt_BR&card_width=800" 
      alt="GitHub Streak Stats" 
-     style="max-width: 85%; height: auto; border-radius: 5px;" />
+     style="max-width: 90%; height: auto; border-radius: 5px;" />
  </div>
 </div>
 
