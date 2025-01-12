@@ -35,19 +35,32 @@
 
 <div align="center">
   <a href="https://github.com/SingeloDux">
-  <img width="49%" height="180px" src="https://github-readme-stats.vercel.app/api?username=SingeloDux&show_icons=true&hide_title=true&count_private=true&theme=dark" />    &nbsp;  <img width="41%" height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SingeloDux&layout=compact&langs_count=8&theme=dark" />
+  <img width="49%" height="180px" src="https://github-readme-stats.vercel.app/api?username=SingeloDux&show_icons=true&hide_title=true&count_private=true&theme=dark" />    &nbsp;  
+   <img width="41%" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SingeloDux&layout=compact&langs_count=8&theme=dark" />
 </div>
+
+<div align="center">
+  <a href="https://github.com/SingeloDux">
+    <img width="49%" height="180px" 
+         src="https://github-readme-stats.vercel.app/api?username=SingeloDux&show_icons=true&hide_title=true&count_private=true&theme=dark" 
+         style="vertical-align: top;" />
+    &nbsp;
+    <img width="49%" height="180px" 
+         src="https://github-readme-stats.vercel.app/api/top-langs/?username=SingeloDux&layout=compact&langs_count=8&theme=dark" 
+         style="vertical-align: top;" />
+  </a>
+</div>
+
 
 ---
 
 <div align="center">
-
- [![GitHub Streak](https://streak-stats.demolab.com?user=SingeloDux&theme=dark&border_radius=5&locale=pt_BR&card_width=800)](https://git.io/streak-stats)
-
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=SingeloDux&theme=dark&border_radius=5&locale=pt_BR&card_width=800" alt="GitHub Streak" /></a>
-
- [![](https://streak-stats.demolab.com?user=SingeloDux&theme=dark&border_radius=5&locale=pt_BR&card_width=800)](https://git.io/streak-stats)
- 
+ <div style="display: flex; justify-content: center; width: 100%;">
+   <img 
+     src="https://streak-stats.demolab.com?user=SingeloDux&theme=dark&border_radius=5&locale=pt_BR&card_width=800" 
+     alt="GitHub Streak Stats" 
+     style="max-width: 90%; height: auto; border-radius: 5px;" />
+ </div>
 </div>
 
 ---
@@ -65,7 +78,6 @@
 
   ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
   
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
 
 </div>
 
@@ -77,6 +89,9 @@
 <a href="#" _target="blank"></a>  | <a href="#" _target="blank"></a>Gmail | <a href="#" _target="blank"></a> Linkedin | <a href="#" _target="blank"></a> MAL | <a href="#" _target="blank"></a> TV Time | <a href="#" _target="blank"></a> DeviantArt | <a href="#" _target="blank"></a> itch.io | <a href="#" _target="blank"></a> GitHub | <a href="#" _target="blank"></a> Instagram | <a href="#" _target="blank"></a> Facebook | <a href="#" _target="blank"></a> X/Twitter
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
+
 ---
 
 <div align="right">
