@@ -35,23 +35,15 @@ Sou um explorador de código em ascensão, um entusiasta ainda em formação. Aq
 
 <div align="center">
   <a href="https://github.com/SingeloDux">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SingeloDux&show_icons=true&hide_title=true&count_private=true&theme=dark" /> 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SingeloDux&layout=compact&langs_count=7&theme=dark" />
+  <img width="49%" height="180em" src="https://github-readme-stats.vercel.app/api?username=SingeloDux&show_icons=true&hide_title=true&count_private=true&theme=dark" /> 
+  <img width="41%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SingeloDux&layout=compact&langs_count=7&theme=dark" />
 </div>
 
 <div align="center">
-  <a href="https://github.com/SingeloDux">
-  <img width="60%" height="180em" src="https://github-readme-stats.vercel.app/api?username=SingeloDux&show_icons=true&hide_title=true&count_private=true&theme=dark" /> 
-  <img width="40%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SingeloDux&layout=compact&langs_count=7&theme=dark" />
-</div>
-   
-<div align="center">
-  <a href="https://github.com/SingeloDux">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SingeloDux&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SingeloDux&theme=dracula&hide_langs_below=1&hide_langs_below=1" />
-</div>
 
-![](https://streak-stats.demolab.com/?user=SingeloDux&count_private=true&theme=blue-green&title_color=00b3ff)
+ [![GitHub Streak](https://streak-stats.demolab.com?user=SingeloDux&theme=dark&border_radius=5&locale=pt_BR&card_width=500)](https://git.io/streak-stats)
+
+</div>
 
 ---
 
@@ -74,10 +66,12 @@ Sou um explorador de código em ascensão, um entusiasta ainda em formação. Aq
 
 ---
 
+<div align="left">
 ## Conecte-se
 
-Blog | Gmail | Linkedin | MAL | TV Time | DeviantArt | itch.io | GitHub | Instagram | Facebook | X/Twitter
+<a href="#" _target="blank"></a>  | <a href="#" _target="blank"></a>Gmail | <a href="#" _target="blank"></a> Linkedin | <a href="#" _target="blank"></a> MAL | <a href="#" _target="blank"></a> TV Time | <a href="#" _target="blank"></a> DeviantArt | <a href="#" _target="blank"></a> itch.io | <a href="#" _target="blank"></a> GitHub | <a href="#" _target="blank"></a> Instagram | <a href="#" _target="blank"></a> Facebook | <a href="#" _target="blank"></a> X/Twitter
 
+</div>
 ---
 
 <div align="right">
