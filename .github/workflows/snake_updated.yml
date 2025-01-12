@@ -1,0 +1,40 @@
+name: Generate Updated Snake
+
+on:
+  # Run automaticamente a cada 24 horas
+  schedule:
+    - cron: "0 */24 * * *"
+  
+  # Permite disparar manualmente
+  workflow_dispatch:
+  
+  # Executa em push para a branch principal
+  push:
+    branches:
+      - main
+
+jobs:
+  generate:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+
+    steps:
+      # Gera os arquivos da Snake
+      - name: Generate GitHub Contribution Grid Snake
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg?color_snake=#1E90FF&color_dots=#4B4B4B,#444444,#3C3C3C,#2C2C2C,#1C1C1C
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      # Faz o push dos arquivos gerados para a branch 'output'
+      - name: Push Snake Files to Output Branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
