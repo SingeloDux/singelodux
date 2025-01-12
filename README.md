@@ -23,7 +23,7 @@ Sou um explorador de código em ascensão, um entusiasta ainda em formação. Aq
 
 ## 🛠️  Languages and Tools
 
-[![My Skills](https://skillicons.dev/icons?i=linux,windows,git,github,vscode,c,python,html,css,js,md,stackoverflow&perline=13)](#)
+[![My Skills](https://skillicons.dev/icons?i=linux,windows,git,github,vscode,c,python,html,css,js,md,mysql,sqlite,stackoverflow&perline=13)](#)
 
 ---
 
@@ -37,8 +37,8 @@ Sou um explorador de código em ascensão, um entusiasta ainda em formação. Aq
 
 <div align="center">
   <a href="https://github.com/SingeloDux">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SingeloDux&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SingeloDux&theme=dracula&hide_langs_below=1&hide_langs_below=1" />
+  <img width="60%" height="180em" src="https://github-readme-stats.vercel.app/api?username=SingeloDux&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img width="60%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SingeloDux&theme=dracula&hide_langs_below=1&hide_langs_below=1" />
 </div>
 
 ![](https://streak-stats.demolab.com/?user=SingeloDux&count_private=true&theme=blue-green&title_color=00b3ff)
