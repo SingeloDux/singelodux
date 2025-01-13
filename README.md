@@ -57,23 +57,23 @@
 
  </div>
 
-## Snake OLD
-
 ![snake gif](https://github.com/SingeloDux/singelodux/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
 
-## Snake Updated
+<!-- SNAKE Updated 
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SingeloDux/singelodux/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SingeloDux/<singelodux/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/SingeloDux/singelodux/output/github-contribution-grid-snake.svg">
-</picture>
+</picture>-->
 
-## Snake v2
+</div>
 
-![snake animation](https://github.com/SingeloDux/singeloDux/blob/output/github-contribution-grid-snake2.svg)
+<div align="right">
+ 
+*Minhas contribuições: a refeição favorita da cobra do GitHub!* 🐍
+
+</div>
 
 ---
 
@@ -84,11 +84,12 @@
 ---
 
 <div align="right">
-
+<!-- https://github.com/shravan20/github-readme-quotes -->
+ 
   ## ⚡ Frase Aleatória
-
-  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
   
+  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&animation=grow_out_in)
+
 </div>
 
 ---
@@ -96,7 +97,7 @@
 ## Conecte-se
 
 📫 Você pode invocar uma conexão comigo através dos meus encantamentos 🪄 (ou melhor, meus projetos) disponíveis nos [repositórios 📂](https://github.com/SingeloDux?tab=repositories). Ou então, através das seguintes plataformas mágicas:
-
+</br>
 <p align="left"> 
   <a href="mailto:singelodux@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Gmail-ff0000?style=plastic&logo=gmail&logoColor=white" /> 
