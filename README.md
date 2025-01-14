@@ -35,27 +35,25 @@
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-    <img width="48%" height="180em" 
-         src="https://github-readme-stats.vercel.app/api?username=SingeloDux&show_icons=true&hide_title=true&count_private=true&theme=blue-green" 
-         style="vertical-align: top;" />
-    &nbsp;
-    <img width="48%" height="180em" 
-         src="https://github-readme-stats.vercel.app/api/top-langs/?username=SingeloDux&layout=compact&langs_count=6&theme=blue-green" 
-         style="vertical-align: top;" />
-  </a>
-</div>
-</br>
-
-<!-- Current Streak Stats -->
-<div align="center">
- <div style="display: flex; justify-content: center; width: 90%;">
-  
+  <!-- MY GITHUB STATS -->
+    <img 
+         src="https://github-readme-stats.vercel.app/api?username=SingeloDux&show_icons=true&hide_title=true&count_private=true&theme=blue-green&card_width=450" 
+         style="max-width: 90%; height: auto; border-radius: 5px; vertical-align: top;" />
+ <!-- MY TOP LANGUAGES -->
+    <img  
+         src="https://github-readme-stats.vercel.app/api/top-langs/?username=SingeloDux&layout=compact&langs_count=8&theme=blue-green&card_width=350" 
+     style="max-width: 90%; height: auto; border-radius: 5px; vertical-align: top;" />
+    </br>
+   <div style="display: flex; justify-content: center; width: 90%;">
+    <!-- Current Streak Stats -->
    <img 
      src="https://streak-stats.demolab.com?user=SingeloDux&theme=dark&border_radius=5&locale=pt_BR&card_width=800" 
      alt="GitHub Streak Stats" 
      style="max-width: 90%; height: auto; border-radius: 5px;" />
+     
+   </div>
 
- </div>
+</br>
 
 ![snake gif](https://github.com/SingeloDux/singelodux/blob/output/github-contribution-grid-snake.svg)
 
@@ -71,7 +69,7 @@
 
 <div align="right">
  
-*Minhas contribuições: a refeição favorita da cobra do GitHub!* 🐍
+   *Minhas contribuições: a refeição favorita da cobra do GitHub!* 🐍
 
 </div>
 
