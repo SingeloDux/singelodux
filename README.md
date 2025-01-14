@@ -26,7 +26,7 @@
 
 ## 🛠️  Tecnologias e Ferramentas
 
-[![My Skills](https://skillicons.dev/icons?i=linux,windows,git,github,stackoverflow,vscode,figma,c,py,php,mysql,sqlite,html,css,js,md,wordpress&theme=dark&perline=16)](#)
+[![My Skills](https://skillicons.dev/icons?i=linux,windows,git,github,stackoverflow,vscode,figma,c,py,php,mysql,sqlite,html,css,js,md,wordpress&theme=dark&perline=16)](https://singelodux.blogspot.com)
 
 <!-- Lista aqui: https://github.com/tandpfun/skill-icons?tab=readme-ov-file#icons-list -->
 
@@ -55,22 +55,16 @@
 
 </br>
 
-![snake gif](https://github.com/SingeloDux/singelodux/blob/output/github-contribution-grid-snake.svg)
-
-<!-- SNAKE Updated 
-
+<!-- SNAKE Updated -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SingeloDux/singelodux/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SingeloDux/<singelodux/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/SingeloDux/singelodux/output/github-contribution-grid-snake.svg">
-</picture>-->
-
-</div>
-
-<div align="right">
+</picture>
+ </br> 
  
-   *Minhas contribuições: a refeição favorita da cobra do GitHub!* 🐍
-
+ _Minha dedicação à alimentação da cobra do GitHub!_ 🐍
+ 
 </div>
 
 ---
