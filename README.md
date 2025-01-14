@@ -107,6 +107,21 @@
   </a>
 </p>
 
+## Projetos Notáveis
+
+<a href="https://github.com/singelodux/singelodux">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=singelodux&repo=singelodux&show_owner=false&theme=blue-green" />
+</a>
+<a href="https://github.com/singelodux/SGE_IFOPTEC">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=singelodux&repo=SGE_IFOPTEC&show_owner=false&theme=blue-green" />
+</a>
+<a href="https://github.com/singelodux/projeto-glass-html5-2018">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=singelodux&repo=projeto-glass-html5-2018&show_owner=false&theme=blue-green" />
+</a>
+<a href="https://github.com/singelodux/SuperMarket-POS">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=singelodux&repo=SuperMarket-POS&show_owner=false&theme=blue-green" />
+</a>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
 
 <div align="right">
