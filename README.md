@@ -1,4 +1,4 @@
- <div align="right">
+ <div align="right" id="top">
   <a href="https://github.com/SingeloDux" style="font-size: 10px; text-decoration: none;">🇵🇹 Português</a> | 
   <a href="https://github.com/SingeloDux/readme_en" style="font-size: 10px; text-decoration: none;">🇬🇧 English</a>
 </div>
@@ -111,6 +111,6 @@
 
 <div align="right">
  
-![Voltar ao topo](https://img.shields.io/badge/Voltar%20ao%20topo-181717?style=for-the-badge&logo=arrow-up&logoColor=white)
+[![Voltar ao topo](https://img.shields.io/badge/Voltar%20ao%20topo-181717?style=for-the-badge&logo=arrow-up&logoColor=white)](#top)
   
 </div>
