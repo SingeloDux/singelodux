@@ -26,7 +26,7 @@
 
 ## 🛠️  Tecnologias e Ferramentas
 
-[![My Skills](https://skillicons.dev/icons?i=linux,windows,git,github,stackoverflow,vscode,figma,c,py,php,mysql,sqlite,html,css,js,md,wordpress&theme=dark&perline=16)](https://singelodux.blogspot.com)
+[![My Skills](https://skillicons.dev/icons?i=linux,windows,git,github,stackoverflow,vscode,figma,c,py,php,mysql,sqlite,html,css,js,vue,flutter,md,wordpress&theme=dark&perline=16)](https://singelodux.blogspot.com)
 
 <!-- Lista aqui: https://github.com/tandpfun/skill-icons?tab=readme-ov-file#icons-list -->
 
